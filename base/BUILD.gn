@@ -1,0 +1,5 @@
+executable("base") {
+  sources = [
+    "base.cc",
+  ]
+}
